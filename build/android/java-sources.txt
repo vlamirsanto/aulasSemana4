@@ -1,0 +1,8 @@
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/br/com/vlamirsanto/aulassemana4/ApplicationStylesheet.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/br/com/vlamirsanto/aulassemana4/AssetCryptImpl.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/br/com/vlamirsanto/aulassemana4/Aulassemana4Activity.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/br/com/vlamirsanto/aulassemana4/Aulassemana4AppInfo.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/br/com/vlamirsanto/aulassemana4/Aulassemana4Application.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/br/com/vlamirsanto/aulassemana4/R.java"
+"/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/build/android/gen/ti/modules/titanium/ui/R.java"

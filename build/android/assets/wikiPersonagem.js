@@ -1,0 +1,1 @@
+/Users/vlamirsanto/Documents/Desenv_Titanium/aulasSemana4/Resources/wikiPersonagem.js
