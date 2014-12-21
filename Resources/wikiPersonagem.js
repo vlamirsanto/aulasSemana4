@@ -16,7 +16,7 @@ function wikiPersonagem( link ){
 	
 	var voltar = Ti.UI.createButton({
 		title: "Voltar",
-		top: 25,
+		top: 15,
 		left: 10
 	});
 	
